@@ -32,7 +32,4 @@ Soy David Altamirano, un desarrollador Full Stack con una pasión por construir 
 [![X](https://img.shields.io/badge/X-XXXXXX?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jdaltamiranodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-david-altamirano/)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-david-altamirano/)
-
 ¡Gracias por visitar mi perfil! 😊
