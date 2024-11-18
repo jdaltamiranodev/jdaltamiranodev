@@ -1,6 +1,6 @@
 # David Altamirano - Desarrollador Full Stack Web
 
-¡Hola! 👋 Bienvenido a mi perfil de GitHub. Soy David Altamirano, un apasionado por la tecnología, el desarrollo web, las interfaces y la creación de experiencias interactivas. Me especializo en el desarrollo Full Stack, combinando habilidades tanto en el frontend como en el backend para crear soluciones web completas y efectivas.
+¡Hola! Soy David Altamirano, un apasionado por la tecnología, el desarrollo web, las interfaces y la creación de experiencias interactivas. Me especializo en el desarrollo Full Stack, combinando habilidades tanto en el frontend como en el backend para crear soluciones web completas y efectivas.
 
 ## Stack
 
@@ -48,11 +48,5 @@ Soy David Altamirano, un desarrollador Full Stack con una pasión por construir 
 
 [![X](https://img.shields.io/badge/X-XXXXXX?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jdaltamiranodev)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-david-altamirano/)
 
-¡Gracias por visitar mi perfil! 😊
-
-### Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdaltamiranodev&count_private=true&show_icons=true&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaltamiranodev&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdaltamiranodev&count_private=true&show_icons=true&hide=prs)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaltamiranodev&layout=compact)
 
