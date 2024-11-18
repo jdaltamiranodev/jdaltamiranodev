@@ -25,7 +25,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
 
 
-## Proyectos Destacados
+## Proyectos
 
 ### Blog de Cafe
 
@@ -40,9 +40,7 @@ E-commerce es una web estatica de tipo catalogo de productos que consta de: una 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Sobre Mí
-
-Soy David Altamirano, un desarrollador Full Stack con una pasión por construir soluciones web robustas y atractivas. Mi enfoque se centra en la creación de interfaces intuitivas y en el desarrollo de backend eficiente para proporcionar experiencias de usuario excepcionales.
+## Contacto
 
 ¡Únete a mi viaje tecnológico! Si compartes la misma pasión por la tecnología y el desarrollo web, ¡sigámonos y colaboremos en proyectos interesantes!
 
