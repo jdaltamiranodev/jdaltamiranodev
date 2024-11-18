@@ -52,7 +52,7 @@ Soy David Altamirano, un desarrollador Full Stack con una pasión por construir 
 
 ### Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdaltamiranodev&count_private=true&show_icons=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaltamiranodev&layout=compact)
 
