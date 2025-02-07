@@ -46,5 +46,6 @@ E-commerce es una web estatica de tipo catalogo de productos que consta de: una 
 
 [![X](https://img.shields.io/badge/X-XXXXXX?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jdaltamiranodev)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-david-altamirano/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdaltamiranodev&count_private=true&show_icons=true&hide=prs) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaltamiranodev&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdaltamiranodev&count_private=true&show_icons=true&hide=prs) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaltamiranodev&layout=compact&cache_seconds=1800)
+
 
